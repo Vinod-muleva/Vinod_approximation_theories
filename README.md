@@ -17,6 +17,9 @@ A passionate Data Scientist exploring the beautiful intersection of mathematics 
     /Vinod-muleva/main/assets/eq1.png" alt="Mathematical equation approximation 1.123456789" width="350"/>
 </p>
 
+\left(\frac{\ln_{\pi} \left(44460 + \sqrt{79}\right)}{\pi\sqrt{\pi}}\right)^{\frac{1}{\sqrt{\pi}}}
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/eq2.png" alt="Mathematical equation approximation 2025.00000078485" width="450"/>
 </p>
