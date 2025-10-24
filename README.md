@@ -34,3 +34,14 @@ A passionate Data Scientist exploring the beautiful intersection of mathematics 
 * 📧 **Email:** muleva17vinod@gmail.com
 * 📞 **Phone:** 7304701840
 * 
+
+
+# My Profile Equations 
+
+<div align="center">
+  <img src="dhanteras1.png" alt="Dhanteras Math Equation 1" style="max-width: 100%; height: auto;">
+  <br>
+  <img src="diwali1.png" alt="Diwali Math Equation 1" style="max-width: 100%; height: auto;">
+  <br>
+  <img src="diwali2.png" alt="Diwali Math Equation 2" style="max-width: 100%; height: auto;">
+</div>
