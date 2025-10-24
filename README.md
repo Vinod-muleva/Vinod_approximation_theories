@@ -13,7 +13,8 @@ A passionate Data Scientist exploring the beautiful intersection of mathematics 
 ## Signature Mathematical Insights
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/eq1.png" alt="Mathematical equation approximation 1.123456789" width="350"/>
+  <img src="https://raw.githubusercontent.com/Vinod-muleva
+    /Vinod-muleva/main/assets/eq1.png" alt="Mathematical equation approximation 1.123456789" width="350"/>
 </p>
 
 <p align="center">
